@@ -1,1 +1,3 @@
-# 1D-TDSE_solver
+# Python implementation of Time Dependent Schrodinger Equation Solver to study adiabaticity of any 1D-system
+The time-dependent Schrodinger equation is a Parabolic partial differential equation which can be solved by many Numerical methods. I have applied the Crank-Nicolson Method (as its unconditionally stable) to solve the TDSE and study the propagation of any given initial state and any specified 1D-potential. The details about how to use the code is given in Manual.pdf and my project report describes the theory and how the code can be used to study the adiabaticity of an 1D-system
+This code is a part of my summer project(2019) at IISER BHOPAL under Dr.Varadharajan Srinivasan.

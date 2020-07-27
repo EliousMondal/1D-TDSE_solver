@@ -1,3 +1,4 @@
+'''This code is for LU-decomposition of a matrix by Do-Little factorisation'''
 from TISE_solver import *
 
 '''=========================================================================='''
